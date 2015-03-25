@@ -5,6 +5,13 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+// -------------------------------------------------------------------------
+/**
+ *  The main activity class.
+ *
+ *  @author David Atkinson (davidja)
+ *  @version 03.24.2015
+ */
 public class MainActivity
     extends Activity
 {
