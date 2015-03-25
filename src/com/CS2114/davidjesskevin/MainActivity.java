@@ -7,7 +7,7 @@ import android.view.MenuItem;
 
 // -------------------------------------------------------------------------
 /**
- *  The main activity class.
+ *  The main activity class. We will probably delete this class.
  *
  *  @author David Atkinson (davidja)
  *  @version 03.24.2015
