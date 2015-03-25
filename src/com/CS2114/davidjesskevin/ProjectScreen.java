@@ -21,6 +21,7 @@ public class ProjectScreen
     {
         Kitten kitten = new Kitten(0, 0, getWidth(), getHeight());
         add(kitten);
+        System.out.println("hello");
     }
 
 }
