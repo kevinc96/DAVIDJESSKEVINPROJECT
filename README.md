@@ -3,4 +3,3 @@ Project
 This is our project. Deal with it.
 http://download.eclipse.org/egit/updates
 #test
-I'm doing a test
