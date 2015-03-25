@@ -1,5 +1,6 @@
 package com.CS2114.davidjesskevin;
 
+import com.CS2114.davidjesskevin.Kitten;
 import sofia.app.ShapeScreen;
 
 //-------------------------------------------------------------------------
@@ -19,7 +20,8 @@ public class ProjectScreen
      */
     public void initialize()
     {
-        // TODO Auto-generated stub.
+        Kitten kitten = new Kitten(0, 0, getWidth(), getHeight());
+        add(kitten);
     }
 
 }
